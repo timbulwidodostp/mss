@@ -1,6 +1,8 @@
 # mss
 Heteroskedasticity test for quantile or OLS regressions Use mss With STATA 19
 
+https://www.youtube.com/watch?v=aHClstEC9-c
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
